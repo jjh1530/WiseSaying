@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "220687100265",
+    "project_id": "quote-f906a",
+    "storage_bucket": "quote-f906a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220687100265:android:5c0efe0ed77b204e7e75f8",
+        "android_client_info": {
+          "package_name": "com.jjhadr.wisesaying"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220687100265-g1896d60i2jj65k1hsa6e6hiuk5hns56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIltwYvkSLni2EBWjLtJwLJMw6dM4Y7UY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220687100265-g1896d60i2jj65k1hsa6e6hiuk5hns56.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
